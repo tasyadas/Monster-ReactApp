@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Available Scripts
+
+Live version of this project at https://tasyadas.github.io/Monster-ReactApp/
 
 ## Available Scripts
 
