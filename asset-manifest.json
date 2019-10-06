@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tasyadas/Monster-ReactApp/static/css/main.8da629b7.chunk.css",
-    "main.js": "/tasyadas/Monster-ReactApp/static/js/main.55d579e3.chunk.js",
-    "main.js.map": "/tasyadas/Monster-ReactApp/static/js/main.55d579e3.chunk.js.map",
-    "runtime~main.js": "/tasyadas/Monster-ReactApp/static/js/runtime~main.b56d9e20.js",
-    "runtime~main.js.map": "/tasyadas/Monster-ReactApp/static/js/runtime~main.b56d9e20.js.map",
-    "static/js/2.2c8a6238.chunk.js": "/tasyadas/Monster-ReactApp/static/js/2.2c8a6238.chunk.js",
-    "static/js/2.2c8a6238.chunk.js.map": "/tasyadas/Monster-ReactApp/static/js/2.2c8a6238.chunk.js.map",
-    "index.html": "/tasyadas/Monster-ReactApp/index.html",
-    "precache-manifest.20781197c09fd97144cbb0847a81eeb1.js": "/tasyadas/Monster-ReactApp/precache-manifest.20781197c09fd97144cbb0847a81eeb1.js",
-    "service-worker.js": "/tasyadas/Monster-ReactApp/service-worker.js",
-    "static/css/main.8da629b7.chunk.css.map": "/tasyadas/Monster-ReactApp/static/css/main.8da629b7.chunk.css.map"
+    "main.css": "/Monster-ReactApp/static/css/main.8da629b7.chunk.css",
+    "main.js": "/Monster-ReactApp/static/js/main.c81c0049.chunk.js",
+    "main.js.map": "/Monster-ReactApp/static/js/main.c81c0049.chunk.js.map",
+    "runtime~main.js": "/Monster-ReactApp/static/js/runtime~main.f56fc752.js",
+    "runtime~main.js.map": "/Monster-ReactApp/static/js/runtime~main.f56fc752.js.map",
+    "static/js/2.2c8a6238.chunk.js": "/Monster-ReactApp/static/js/2.2c8a6238.chunk.js",
+    "static/js/2.2c8a6238.chunk.js.map": "/Monster-ReactApp/static/js/2.2c8a6238.chunk.js.map",
+    "index.html": "/Monster-ReactApp/index.html",
+    "precache-manifest.e25c5df27ff81cc8d01d7610bb499d9c.js": "/Monster-ReactApp/precache-manifest.e25c5df27ff81cc8d01d7610bb499d9c.js",
+    "service-worker.js": "/Monster-ReactApp/service-worker.js",
+    "static/css/main.8da629b7.chunk.css.map": "/Monster-ReactApp/static/css/main.8da629b7.chunk.css.map"
   }
 }
