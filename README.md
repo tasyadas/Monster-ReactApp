@@ -1,4 +1,4 @@
-## Available Scripts
+## Live Version
 
 Live version of this project at https://tasyadas.github.io/Monster-ReactApp/
 
